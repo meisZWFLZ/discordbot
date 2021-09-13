@@ -1,0 +1,20 @@
+#re-added by running something with npm
+node_modules/
+
+#re-add these manually
+data/data.json
+# content:
+# [
+# ]
+data/strings.json
+# content:
+# {
+#     "key": "<insert clashroyale api here>"
+# }
+data/cr_players
+# content:
+# [
+# ]
+
+#not needed
+.vscode

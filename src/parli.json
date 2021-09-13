@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Postpone Indefintely",
+        "symbol": "PI"
+    },
+    {
+        "name": "Amendment",
+        "symbol": "AM"
+    },
+    {
+        "name": "Refer to a Committee",
+        "symbol": "RC"
+    },
+    {
+        "name": "Postpone Defintely",
+        "symbol": "PD"
+    },
+    {
+        "name": "Previous Question",
+        "symbol": "PQ"
+    },
+    {
+        "name": "Lay on the Table",
+        "symbol": "LT"
+   },
+    {
+        "name": "Parliamentary Inquiry",
+        "symbol": "IQ"
+    },
+    {
+        "name": "Division of the Assembly",
+        "symbol": "DA"
+    },
+    {
+        "name": "Question of Privilege",
+        "symbol": "QP"
+    },
+    {
+        "name": "Recess",
+        "symbol": "RE"
+    },
+    {
+        "name": "Adjourn",
+        "symbol": "AD"
+    }            
+]
